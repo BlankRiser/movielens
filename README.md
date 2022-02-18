@@ -24,3 +24,8 @@ pip freeze -l > requirements.txt
 - [Open Library of Books](https://openlibrary.org/)
 - [Publicly Available Big Data Sets](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [Quora](https://www.quora.com/Data/Where-can-I-find-large-datasets-open-to-the-public)
+
+### References
+
+- [Spark Docs](https://spark.apache.org/docs/latest/api/python/reference/index.html)
+- [Old Spark Docs](https://spark.apache.org/docs/3.0.1/api/python/pyspark.sql.ht

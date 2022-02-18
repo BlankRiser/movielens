@@ -2,7 +2,7 @@
 .vscode/
 datasets/
 dataset.zip
-# unzip `datasets.zip` t0 datasets folder to get the datasets 
+# download MovieLens dataset and add all the files to `datasets` folder 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
